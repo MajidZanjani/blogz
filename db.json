@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "1728732406120",
+      "userName": "majid",
+      "email": "majid@email.com",
+      "password": "123"
+    },
+    {
+      "id": "1728732417724",
+      "userName": "elham",
+      "email": "elly@email.com",
+      "password": "123"
+    },
+    {
+      "id": "1728732428773",
+      "userName": "sahand",
+      "email": "sahand@email.com",
+      "password": "123"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1730396458770",
+      "poster": "./assets/images/blogpost.png",
+      "title": "My first post",
+      "content": "Inventore neque nisi, similique quaerat, eius commodi consequatur reprehenderit nemo debitis dolore perferendis. Culpa facilis ex exercitationem unde repellat.",
+      "authorId": "1728732406120",
+      "postDate": "2024-10-31"
+    },
+    {
+      "id": "1730396774729",
+      "poster": "./assets/images/blogpost.png",
+      "title": "My first post",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore neque nisi, tempore quibusdam dolorem, similique quaerat, adipisicing elit.",
+      "authorId": "1728732428773",
+      "postDate": "2024-10-31"
+    },
+    {
+      "id": "1730630619805",
+      "poster": "./assets/images/1730630619765.JPG",
+      "title": "new post test",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse aliquet felis consectetur velit ultricies consequat. Integer pharetra libero eget nulla rutrum ultrices. Donec varius feugiat odio, nec rutrum ligula faucibus non. Quisque porttitor efficitur ultrices. Donec pellentesque odio et ante egestas, nec suscipit nunc maximus. Mauris elit tortor, ultrices sed tempus condimentum, porta eget leo. Phasellus tristique lobortis finibus.\r\n\r\nAliquam tincidunt quam in eros gravida eleifend. Nulla volutpat leo ac nisi dignissim semper. Fusce eu lobortis nibh. Aliquam ac ullamcorper velit. Aliquam eu odio consequat, luctus elit vel, consequat odio. Integer tristique ipsum eu libero malesuada tempus. Maecenas dictum ex a rutrum viverra. Curabitur egestas ipsum sapien, ac mollis arcu sollicitudin eget. Suspendisse id ullamcorper justo. Sed condimentum turpis id mauris volutpat, sit amet consectetur purus vestibulum.",
+      "authorId": "1728732406120",
+      "postDate": "2024-11-03"
+    },
+    {
+      "id": "1730654307599",
+      "poster": "./assets/images/1730654307599.jpg",
+      "title": "post id test",
+      "content": "asfsadfsadf",
+      "authorId": "1728732406120",
+      "postDate": "2024-11-03"
+    },
+    {
+      "id": "1730654550734",
+      "poster": "./assets/images/1730654550734.jpg",
+      "title": "My first post",
+      "content": "asdfasf",
+      "authorId": "1728732406120",
+      "postDate": "2024-11-03"
+    }
+  ]
+}
